@@ -1,7 +1,7 @@
 {
-  "name": "react-router",
+  "name": "react-router-legacy",
   "version": "3.2.1",
-  "description": "A complete routing library for React",
+  "description": "A complete routing library for React. v3 fork for Trove.",
   "files": [
     "*.md",
     "docs",
